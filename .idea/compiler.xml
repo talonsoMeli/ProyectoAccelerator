@@ -7,8 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="meli-base" />
-        <module name="meli-base-java-master" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="meli-base" target="1.11" />
+    </bytecodeTargetLevel>
   </component>
 </project>

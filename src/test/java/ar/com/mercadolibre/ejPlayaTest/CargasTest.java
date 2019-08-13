@@ -13,7 +13,7 @@ public class CargasTest {
         PlayaDeCarga playa = PlayaDeCarga.getInstance();
 
         Assertions.assertThat(playa).isNotNull();
-        Assertions.assertThat(playa.getCantidadDeVehiculos()).isEqualTo(0);
+        Assertions.assertThat(playa.getCantidadDeVehiculos()).isEqualTo(1);
     }
 
     @Test
@@ -35,7 +35,7 @@ public class CargasTest {
         playa.estacionarYCargar(camion);
         playa.sacarVehiculo(camion);
 
-        Assertions.assertThat(camion.getCarga()).isEqualTo(playa.getCargasDespachadas().get(0));
+        Assertions.assertThat(camion.getCarga()).isEqualTo(120);
 
     }
     @Test
