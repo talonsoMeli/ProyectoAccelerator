@@ -1,15 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee83dab2-5dbc-4428-adc6-3e19286f5916" name="Default Changelist" comment="" />
+    <list default="true" id="ee83dab2-5dbc-4428-adc6-3e19286f5916" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1PBiVWZaWtzIU0oWR1aWjdIr6Ih" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -31,7 +45,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.EstacionamientoTest (1)">
+    <configuration name="EstacionamientoTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="meli-base-java-master" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ar.com.mercadolibre.ejPlayaTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ar.com.mercadolibre.ejPlayaTest" />
+      <option name="MAIN_CLASS_NAME" value="ar.com.mercadolibre.ejPlayaTest.EstacionamientoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="EstacionamientoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="meli-base" />
       <extension name="coverage">
@@ -49,6 +78,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.EstacionamientoTest (1)" />
         <item itemvalue="JUnit.EstacionamientoTest" />
       </list>
     </recent_temporary>
@@ -64,10 +94,22 @@
       <option name="presentableId" value="Default" />
       <updated>1565353914581</updated>
       <workItem from="1565353916854" duration="1683000" />
+      <workItem from="1565555039358" duration="1062000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
